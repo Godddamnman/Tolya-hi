@@ -1,0 +1,107 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0 auto;
+    font-size: 10px;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: bolder; 
+}
+
+
+
+.header{
+    width: 310px;
+    height: 280px;
+    border-left: 20px solid ghostwhite;
+    
+}
+.table{
+    width: 170px;
+    height: 265px;
+    border-top: 3px dotted ghostwhite;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    background: white;
+    text-decoration: none;
+}
+
+.box1{
+background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+     text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+    
+}
+
+.box2{
+    background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+     text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+    background-color: red;
+    
+}
+
+.box3{
+    background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+    text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+}
+
+.box4{
+    background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+     text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+}
+
+.box5{
+    background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+    text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+}
+
+
+.box6{
+    background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+     text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+}
+
+.box7{
+    background-color: aliceblue;
+    color: black;
+    width: 162px;
+    height: 25px;
+    text-align: left;
+    padding-left: 13px;
+    padding-top: 6px;
+}
+
+.b{
+   color: white
+}
